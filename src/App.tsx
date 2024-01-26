@@ -13,7 +13,7 @@ function App() {
             position: 7,
             mass: 14.007,
             symbol: 'N',
-            name: 'Nitrogen',
+            name: 'Oxygen',
         },
         {
             position: 39,
